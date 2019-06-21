@@ -1,7 +1,7 @@
 {
-	"name": "whiteboard-js",
+	"name": "whiteboard-canvas",
 	"version": "0.0.1",
-	"description": "A whiteboard for sketching town info",
+	"description": "A whiteboard for sketching down info",
 	"main": "index.js",
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1",
